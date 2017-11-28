@@ -9,6 +9,6 @@ end
 def cobble
   puts "The shoe has been repared!"
   condition = new
-
+end
 
 end
